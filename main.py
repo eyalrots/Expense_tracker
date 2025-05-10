@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Path to xlsx file
-file_path = 'expense_may.xlsx'
+file_path = 'expense_april.xlsx'
 
 # Creating the DataFrame for data extraction
 try:
