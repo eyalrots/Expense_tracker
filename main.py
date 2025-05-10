@@ -67,7 +67,7 @@ print(df_grouped)
 
 # Make plot
 if not df_grouped.empty:
-    plt.figure(figsize=(12, 9))  # Adjusted figure size for potentially more labels
+    plt.figure(figsize=(6, 4.5))  # Adjusted figure size for potentially more labels
 
     # Use the 'branch' column for labels and 'sum' column for sizes
     patches, texts, autotexts = plt.pie(

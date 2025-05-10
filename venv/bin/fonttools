@@ -1,4 +1,4 @@
-#!/home/eyalrots/Projects/project_2/venv/bin/python3
+#!/Users/eyalrothschild/Documents/Expense_tracker/venv/bin/python3.13
 # -*- coding: utf-8 -*-
 import re
 import sys
